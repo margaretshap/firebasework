@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "743367250109",
+    "firebase_url": "https://margret-43492.firebaseio.com",
+    "project_id": "margret-43492",
+    "storage_bucket": "margret-43492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743367250109:android:8d4194c42ec224c6",
+        "android_client_info": {
+          "package_name": "com.example.firebaseautho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743367250109-u9uibkcbshfhsje878kl6j0v12dsmhd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseautho",
+            "certificate_hash": "66e8a308e091288c3b75680979fdb5c2fe608252"
+          }
+        },
+        {
+          "client_id": "743367250109-ruhmn7bs6oipobup8r516iboeb4tmo42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHmuifIEd38G66rrOl-bbXSOcX2OM8Jcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743367250109-ruhmn7bs6oipobup8r516iboeb4tmo42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
